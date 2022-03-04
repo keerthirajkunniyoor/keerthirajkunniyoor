@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/keerthirajkunniyoor/keerthirajkunniyoor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.iitkgp.ac.in/department/CR) at IIT-kharagpur under the guidance of [Prof. Parthasarathi Ghosh](http://www.iitkgp.ac.in/department/CR/faculty/cr-psghosh#resp-tab4).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
