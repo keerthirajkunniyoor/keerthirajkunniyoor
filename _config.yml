@@ -1,5 +1,4 @@
 theme: jekyll-theme-architect
 title: Keerthi Raj Kunniyoor
 description: Ph.D. student in Cryogenic Engineering Center at IIT-Kharagpur, India
-github:
-  is_project_page: false
+is_project_page: false
