@@ -1,5 +1,5 @@
 ---
-title: Keerthi Raj Kunniyoor
+title: About Me
 layout: default
 filename: index
 --- 
