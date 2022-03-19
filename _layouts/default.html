@@ -23,7 +23,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        section class="page-header">
+        <section class="page-header">
           {% for page in site.pages %}
             <a href= {{ page.filename }} class="button">{{ page.title }}</a>
           {% endfor %}
