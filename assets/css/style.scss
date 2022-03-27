@@ -13,10 +13,20 @@ a.button {
   text-align: center;
   line-height: 1.2;
   border-style: solid;
+  border-radius: 5px;
+  border-style: solid;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
 header a.button {
   position: static;
   display: inline;
   background: none;
+  text-align: center;
+  border-style: solid;
+  border-radius: 5px;
+  border-style: solid;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
