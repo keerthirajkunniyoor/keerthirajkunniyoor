@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: default
-filename: aboutme
+filename: index
 --- 
 
 # About me
