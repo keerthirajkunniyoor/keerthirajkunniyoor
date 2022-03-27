@@ -24,7 +24,6 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <h3>
-          <br>
           {% for page in site.pages %}
             <a href= {{ page.filename }} class="button">{{ page.title }}</a>
           {% endfor %}
