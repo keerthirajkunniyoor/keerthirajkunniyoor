@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 layout: default
-filename: collaborations
+filename: rcollaborations
 --- 
 
 # International Collaborations
