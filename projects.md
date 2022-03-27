@@ -4,7 +4,7 @@ layout: default
 filename: projects
 --- 
 
-# Projcts
+# Projects
 
 * ISRO
 * Cryogas
