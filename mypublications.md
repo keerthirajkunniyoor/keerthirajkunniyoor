@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-filename: publications
+filename: mypublications
 --- 
 
 # Journal Publications
