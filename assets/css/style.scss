@@ -18,3 +18,8 @@ a.button {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
 }
+
+header a.button {
+  position: static;
+  display: block;
+}
