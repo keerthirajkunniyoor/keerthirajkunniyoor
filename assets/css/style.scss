@@ -14,9 +14,12 @@ a.button {
 }
 
 header a.button {
+  position: static;
   display: inline;
   background: none;
   text-align: center;
+  padding: 10px;
+  margin: 5px;
   border-style: solid;
   border-radius: 10px;
   border-style: solid;
