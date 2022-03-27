@@ -12,15 +12,10 @@ a.button {
   font-size: 23px;
   text-align: center;
   line-height: 1.2;
-  color: #2879d0;
-  border-radius: 5px;
-  border-style: solid;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
 }
 
 header a.button {
   position: static;
-  display: block;
+  display: inline;
   background: none;
 }
