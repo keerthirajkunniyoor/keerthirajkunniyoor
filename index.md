@@ -18,4 +18,4 @@ I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.ii
 
 ## Work Experience
 
-Powertrain (engine and transmission) Program Coordinator at General Motors India Pvt Ltd. Pune, India from August 2012 to October 2013.
+Powertrain (engine and transmission) **Program Coordinator** at **General Motors India Pvt Ltd.** Pune, India from August 2012 to October 2013.
