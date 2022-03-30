@@ -13,7 +13,7 @@ I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.ii
 Powertrain (engine and transmission) **Program Coordinator** at **General Motors India Pvt Ltd.** Pune, India from August 2012 to October 2013.
 
 ## Educational Qualification
-* Doctor of Philosophy (Two-phase flow), Indian Institute of Technology (IIT) Kharagpur, India. August 2017 - till date
+* Doctor of Philosophy, Indian Institute of Technology (IIT) Kharagpur, India. August 2017 - till date
 * Master of Technology in Cryogenic Engineering, Indian Institute of Technology (IIT) Kharagpur, India. August 2017 
 * Master’s thesis work, Karlsruhe Institute of Technology (KIT), Germany. September 2016 - April 2017
 * Bachelor of Technology in Mechanical Production Engineering, Sree Chitra Thirunal College of Engineering (SCTCE), India. April 2012
