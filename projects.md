@@ -6,7 +6,7 @@ filename: projects
 
 # Projects
 
-* **Institute of Technical Physics, Karlsruhe Institute of Technology(KIT), Germany** (7 months) -
+* **Institute of Technical Physics, Karlsruhe Institute of Technology (KIT), Germany** (7 months) -
   A mathematical model to characterize the superconducting level sensor is developed using steady-state heat balance equations and is validated through experiment. Experimental performance analysis of a superconducting level sensor is conducted under different gaseous flow conditions in the cryostat.
 
 * **General Motors India (GMI) Pvt. Ltd.** (2 months) -
