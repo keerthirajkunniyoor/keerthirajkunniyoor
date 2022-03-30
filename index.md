@@ -15,3 +15,8 @@ I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.ii
 * **Second best paper** award for the paper titled "Investigation of Transfer Line Cool-Down Transients Using Equilibrium Two-Phase Model" presented at National Conference on Cryogenics for Space (NCCS) 2019, at Liquid Propulsion Systems Centre, ISRO, Thiruvananthapuram, India (first author). (2019)
 * Awarded **DAAD** (German academic exchange service) - IIT master sandwich scholarship 2016/2017
 * Awarded **Institute Silver Medal** (Indian Institute of Technology Kharagpur) for the academic year 2016-2017 as best student in order of merit among the graduating postgraduate students of the Cryogenic Engineering Centre.
+
+# Work Experience
+
+General Motors India Pvt Ltd.						                            Pune, India
+Powertrain (engine and transmission) Program Coordinator		        August 2012-October 2013
