@@ -14,6 +14,6 @@ filename: mypublications
 *	Kunniyoor, K.R., Richter, T., Ghosh, P., Lietzow, R., Schlachter, S. and Neumann, H., (2019). Performance analysis of a NbTi level sensor while filling LHe into a cryostat. Indian Journal of Cryogenics, 44(1), pp.161-165.
 
 ## Conference Publications
-
+*	Kunniyoor, K.R., and Ghosh, P., (2022), Numerical Modelling of Chill-down Operation in a Pipeline With Inner Wall Coating for Heat Transfer Enhancement. In Heat Transfer Summer Conference 2022. American Society of Mechanical Engineers (Accepted).
 *	Lohar, K., Kunniyoor, K. R., Ventateshwaran, K. S., Ghosh P.(2021), Three-dimensional fluid-structural interaction and thermal analysis of a large diameter horizontal cryogenic transfer line. IOP Conference Series 2021 (Accepted)
 *	Sam, A.A., Kunniyoor, K.R., K. Narayanan, J., Mishra, A. and Ghosh, P., (2018), November. Droplet Nucleation and Growth in Cryogenic Turboexpanders. In ASME International Mechanical Engineering Congress and Exposition (Vol. 52101, p. V007T09A068). American Society of Mechanical Engineers.
