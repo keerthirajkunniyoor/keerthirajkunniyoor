@@ -22,13 +22,15 @@
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}
+        <h2>
+          {{ site.description }}
+          {{ site.github.project_tagline }}
+        </h2>
+        <h3>
           {% for page in site.pages %}
             <a href= {{ page.filename }} class="button">{{ page.title }}</a>
-          {% endfor %}</h2>
-        <!--h3>
-          
-        </h3-->
+          {% endfor %}
+        </h3>
       </div>
     </header>
 
