@@ -6,7 +6,7 @@ filename: projects
 
 ## Projects
 * **Cryogas Equipment Private limited, Gujarat, India** (1 year)-
-  Optimization of the chill-down operation in a high presure and a low pressure cryogenic transfer line setups having various flow components using LH2 and LOX cryogenic fluids. 
+  Optimization of the chill-down operation of high pressure and low pressure cryogenic transfer line setups having various flow components using LH2 and LOX cryogenic fluids 
 
 * **ISRO Propulsion Complex (IPRC), Tamil Nadu, India** (3 years) -
   Development of a numerical program called FloNAT (Flow Network Analyzer for Two-phase) for modelling two-phase chill-down operation in cryogenic feed lines. 
