@@ -6,7 +6,7 @@ filename: index
 
 ## About me
 
-I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.iitkgp.ac.in/department/CR) at IIT-kharagpur under the guidance of [Prof. Parthasarathi Ghosh](http://www.iitkgp.ac.in/department/CR/faculty/cr-psghosh#resp-tab4). My area of research is numerical modelling of two phase flow boiling phenomenon with a focus on cryogeic fluid management systems.
+I am currently pursuing my PhD from [Cryogenic engineering Center](http://www.iitkgp.ac.in/department/CR) at IIT-kharagpur under the guidance of [Prof. Parthasarathi Ghosh](http://www.iitkgp.ac.in/department/CR/faculty/cr-psghosh#resp-tab4). My area of research is numerical modelling of two phase flow boiling and heat transfer phenomenon with a focus on cryogeic fluid management systems.
 
 ## Work Experience
 
