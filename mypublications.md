@@ -5,7 +5,7 @@ filename: mypublications
 --- 
 
 ## Journal Publications
-
+*	**Kunniyoor, K.R.** & Ghosh, P. (2022). Investigation of quench flow boiling heat transfer correlations for liquid oxygen feed line chill-down with outlet contraction. Cryogenics, 128, 103593.
 *	**Kunniyoor, K.R.**, Govind, R., Venkateswaran, K. S., & Ghosh, P. (2021). Liquid hydrogen pipeline chill-down: Mathematical modelling and investigation. Cryogenics, 118, 103324.
 *	**Kunniyoor, K.R.**, Richter, T., Ghosh, P., Lietzow, R., Schlachter, S., & Neumann, H. (2018). Experimental study on superconducting level sensors in liquid helium. IEEE Transactions on Applied Superconductivity, 28(2), 1-10.
 *	**Kunniyoor, K.R.**, Richter, T., Ghosh, P., Lietzow, R. and Neumann, H., 2018. A Mathematical Model for the Characterization of Superconducting Level Sensors. IEEE Transactions on Applied Superconductivity, 28(1), pp.1-11.
